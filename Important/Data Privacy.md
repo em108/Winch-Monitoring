@@ -12,6 +12,6 @@ Our commitment to data privacy is of utmost importance. We collect and process u
 
 5. **Data Retention:** User data will be retained as long as necessary for the provision of app services or as required by law.
 
-6. **User Rights:** Users have the right to access, rectify, or delete their personal data. For inquiries or requests related to data privacy, please contact the developer at [kakaire.francis@winchenergypower.com](mailto:kakaire.francis@winchenergypower.com).
+6. **User Rights:** Users have the right to access, rectify, or delete their personal data. For inquiries or requests related to data privacy, please contact the developer.
 
 By using this app, you agree to the terms outlined in this Data Privacy section.
